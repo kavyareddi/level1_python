@@ -1,5 +1,5 @@
 #Program to calculate credit card balance after 1 year
-#input :
+#input :balance,annualrateinterest,monthlypaymentrate
 try:
     balance = int(input('enter balance:'))
     annualInterestRate = int(input('enter annualInterestRate :'))
