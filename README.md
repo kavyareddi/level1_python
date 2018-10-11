@@ -5,5 +5,4 @@
   * Intro to Python data structures: data types, strings, lists, dictionaries, booleans
   * Python statements - Conditionals and Loop
   * Methods and functions
-  * Python functions
   * Intro to Object oriented programming in Python
